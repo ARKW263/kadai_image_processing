@@ -25,7 +25,7 @@ IMG2 = imresize(IMG,2,'box'); % 画像の拡大
 IMG = imresize(ORG,0.5); % 画像の縮小
 IMG2 = imresize(IMG,2,'box'); % 画像の拡大
 
-とする．1/4サンプリングの結果を図３に示す．
+とする．1/4サンプリングの結果を図3に示す．
 
 ![原画像](https://github.com/Kiyotaro/kadai_image_processing/blob/master/image/kadai1/fig1_3.jpg)  
 図3 1/4サンプリング
@@ -35,7 +35,7 @@ IMG2 = imresize(IMG,2,'box'); % 画像の拡大
 IMG = imresize(ORG,0.5); % 画像の縮小
 IMG2 = imresize(IMG,2,'box'); % 画像の拡大
 
-を繰り返す．サンプリングの結果を図４～６に示す．
+を繰り返す．サンプリングの結果を図4～6に示す．
 
 ![原画像](https://github.com/Kiyotaro/kadai_image_processing/blob/master/image/kadai1/fig1_4.jpg)  
 図4 1/8サンプリング
